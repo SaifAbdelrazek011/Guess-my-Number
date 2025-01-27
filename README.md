@@ -4,6 +4,7 @@
  This game is from the projects that I am carrently make as a practice for my skills in web specially in HTML, CSS and JavaScript. For any fedback, contact me on Slack as a direct message.
 
 Me: ChatGpt please write the properties and the other parts
+
 ChatGpt: Okay
 
 A fun and interactive browser-based game where you try to guess the secret number. Perfect for learning and practicing JavaScript concepts like DOM manipulation, event handling, and game logic.  
